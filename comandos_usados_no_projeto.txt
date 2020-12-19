@@ -1,0 +1,5 @@
+//para criar os arquivos base do projeto na pasta Api
+  dotnet new api -n Api
+
+//instalar o pacote de driver do mongo
+  dotnet add package MongoDB.Driver
